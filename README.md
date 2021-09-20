@@ -29,5 +29,5 @@ gcc f_check.c
 voperatingsystem@gmail.com!
 
 # VISUALIZATION
-[Screenshot from 2021-09-20 23-23-38](https://github.com/UnusualBoyee/File_position/blob/main/Screenshot%20from%202021-09-20%2023-23-38.png)
+![Screenshot from 2021-09-20 23-23-38](https://github.com/UnusualBoyee/File_position/blob/main/Screenshot%20from%202021-09-20%2023-23-38.png)
 
