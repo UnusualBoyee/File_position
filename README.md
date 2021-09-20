@@ -1,6 +1,7 @@
 # File_position
 Shows according to given START and END position.
-Can modify and distributed. You don't need anyone's permision.
+
+Can modify and distributed. Without anyone's permision.
 
 # CONCEPT
 If you want to check certain position from a file. You can easily get the position, ascii value and following character.
