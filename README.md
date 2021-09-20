@@ -14,6 +14,11 @@ Another for reading from buffer.
 
 If you compile without `uncommenting` you will get "undefined refrence to main" err.
 
+DIFFERENT BETWEEN THEM 
+
+: ONE READ FROM COUNTING 0 AND ANOTHER READS FROM 1.
+: "Pending"
+
 # COMPILE
 gcc f_check.c
 
@@ -21,4 +26,8 @@ gcc f_check.c
 ./(char *str) (file name)
 
 # MAIL (REPORT BUG / REQUEST "how did" / REPORT NOT MAINTAINED CODE PROPERLY)
-voperatingsystem@gmail.com
+voperatingsystem@gmail.com!
+
+# VISUALIZATION
+[Screenshot from 2021-09-20 23-23-38](https://user-images.githubusercontent.com/82939199/134048505-34423f67-aa35-4ff7-8a8e-fb6fa7cf2f34.png)
+
